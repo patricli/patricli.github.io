@@ -30,12 +30,31 @@ Our organizers feel that during our current COVID restrictions, we are responsib
 
 We are committed to safety and equity for the whole community and a virtual event still seems the best way to make sure of this in 2022.
 
-See the Full Agenda <a href="https://o11yfest.org/agenda"> Agenda </a>
+See the Full Agenda <a href="https://o11yfest.org/agenda"> Here </a>
 
-[Link to another page](./another-page.html).
+# Agile Book Club: Refactoring (with James Shore and Martin Fowler)
 
-There should be whitespace between paragraphs.
+James Shore's Art of Agile Development is a favorite single-volume book on agile software development. A reason for that is its serious emphasis on the technical practices that are essential to making it work effectively. James and Martin discuss the role of refactoring for software development, the nature of design changes we see, and how to break down big changes into small pieces.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Check out the full discussion <a href="https://www.jamesshore.com/v2/books/aoad2/book_club/refactoring"> Here </a>
+
+# Top Book Recommendations
+
+Refactoring: Improving the Design of Existing Code *by Martin Fowler, with Kent Beck*
+The guide to how to transform code with safe and rapid process, vital to keeping it cheap and easy to modify for future needs.
+https://martinfowler.com/books/refactoring.html
+
+Service Design Patterns: Fundamental Design Solutions for SOAP/WSDL and RESTful Web Services *by Robert Daigneau, with Ian Robinson*
+One of the inevitable truisms of enterprise applications is that they are not islands. You may be focused on solving a particular business problem, but in order to do that you won't be able to capture all the data you need yourself, or develop all the processing. Even if you had the time, that data and processing is being done elsewhere, duplication is both wasteful and leads to messy inconsistencies. As a result almost all enterprise applications need to communicate with other applications. These foreign systems are often not in the same organization, but provided by some third-party organization.
+http://www.servicedesignpatterns.com/
+
+Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation *by Jez Humble and David Farley*
+Dave and Jez have been part of that sea-change, actively involved in projects that have built a culture of frequent, reliable deliveries. They and our colleagues have taken organizations that struggled to deploy software once a year, into the world of Continuous Delivery, where releasing becomes routine.
+
+The foundation for the approach, at least for the development team, is Continuous Integration (CI). CI keeps a development team in sync with each other, removing the delays due to integration issues. A couple of years ago Paul Duvall wrote the book on CI within this series. But CI is just the first step. Software that's been successfully integrated into a mainline code stream still isn't software that's out in production doing its job. Dave and Jez's book pick up the story from CI to deal with that 'last mile', describing how to build the deployment pipelines that turn integrated code into production software. 
+http://continuousdelivery.com/
+
+
+
 
 
